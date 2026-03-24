@@ -45,3 +45,7 @@ end
     pipe_through :browser
     live "/", WyrdLive, :index
   end
+  scope "/", WyrdWarlockWeb do
+    pipe_through :browser
+    live "/", WyrdLive, :index
+  end
