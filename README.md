@@ -14,5 +14,5 @@ Open http://localhost:4000
 Run Python brain sigil separately:
 python3 bci_warlock.py
 
-Made with pure BCI EEG typos by a true warlock (@TheGoldenAnvil).
+Made with pure BCI EEG typos by a true warlock 
 The wyrd is watching.
